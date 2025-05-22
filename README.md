@@ -28,16 +28,26 @@ The dashboard helps HR teams and managers make data-driven decisions by offering
 
 ## 📸 Screenshots
 
-> Replace the below image paths with your actual image file names (upload them in your GitHub repo)
 
-### 👥 Employee Overview
-![Employee Overview](screenshots/employee_overview.png)
+Here is the complete view of the HR Analytics Power BI dashboard:
 
-### 📈 Attrition Analysis
-![Attrition Analysis](screenshots/attrition_analysis.png)
 
-### 🏢 Department Breakdown
-![Department Breakdown](screenshots/department_breakdown.png)
+![Screenshot 2025-05-22 185948](https://github.com/user-attachments/assets/b8310ba0-1049-49b5-a450-bc43d9e305ee)
+
+### 👥 Attrition by Age
+
+
+![Screenshot 2025-05-22 190237](https://github.com/user-attachments/assets/1e3d6d26-5fa6-4021-a923-179bee4dd667)
+
+### 💰 Attrition by Salary Slab
+
+![Screenshot 2025-05-22 190259](https://github.com/user-attachments/assets/7e36adfa-03c7-4ee9-b6a7-a7d2dd9ee0c0)
+
+
+### 🧑‍💼 Attrition by Job Role
+
+![Screenshot 2025-05-22 190319](https://github.com/user-attachments/assets/18cb6d2d-6e0b-40b0-b707-684bafb1bbe6)
+
 
 ## 📦 How to Use
 
