@@ -2,6 +2,10 @@
 
 This project is a **Human Resource Analytics Dashboard** built using **Microsoft Power BI**. It visualizes critical HR metrics to provide insights into workforce demographics, performance, attrition, and other important HR indicators.
 
+Here is the complete view of the HR Analytics Power BI dashboard:
+
+![Screenshot 2025-05-22 185948](https://github.com/user-attachments/assets/b8310ba0-1049-49b5-a450-bc43d9e305ee)
+
 ## 📁 Project Overview
 
 The dashboard helps HR teams and managers make data-driven decisions by offering a clear overview of:
@@ -27,12 +31,6 @@ The dashboard helps HR teams and managers make data-driven decisions by offering
 - Clean and intuitive UI
 
 ## 📸 Screenshots
-
-
-Here is the complete view of the HR Analytics Power BI dashboard:
-
-
-![Screenshot 2025-05-22 185948](https://github.com/user-attachments/assets/b8310ba0-1049-49b5-a450-bc43d9e305ee)
 
 ### 👥 Attrition by Age
 
